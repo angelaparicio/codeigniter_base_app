@@ -1,0 +1,8 @@
+Tocar en config:
+
+config.php
+email.php
+database.php
+
+assets / images / profiles <= Upload de imagenes (cambiable en config)
+default_profile_image.png
